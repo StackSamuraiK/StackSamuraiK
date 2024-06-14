@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kubernets**
 
-- 💬 Ask me about **React , Express , Node , Mongo/Prisma**
+- 💬 Ask me about **React , Express , Node , Mongo/Postgres**
 
 - 📫 How to reach me **kshitizsrivastav3344@gmail.com**
 
